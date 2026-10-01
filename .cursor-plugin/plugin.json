@@ -1,0 +1,20 @@
+{
+  "name": "etoro-mcp",
+  "version": "1.0.0",
+  "description": "Live eToro Grok Bot / Cursor connector via MCP (https://mcp.public-api.etoro.com). Not the builders API-docs plugin.",
+  "author": {
+    "name": "eToro",
+    "email": "apisupport@etoro.com"
+  },
+  "homepage": "https://mcp.public-api.etoro.com",
+  "keywords": [
+    "etoro",
+    "mcp",
+    "grok",
+    "cursor",
+    "trading",
+    "finance",
+    "public-api"
+  ],
+  "logo": "logo.png"
+}
